@@ -39,7 +39,9 @@ reward: (numeric) money gained from "offer completed"
 time: (numeric) hours after start of test
 
 # Recommendations
-
-
+All recommendations can be found in the report 
+Starbucks Capstone Project Report.pdf
 
 # Credit
+
+Udacity provided the dataset. Support has also come from Udacity mentors, Udacity AI, Chatgpt, Stack Overflow.
